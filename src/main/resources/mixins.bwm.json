@@ -1,0 +1,7 @@
+{
+  "package": "fr4gtastic.justmyrottenluck.mixin.bwm",
+  "mixins": [
+    "MillManagerMixin",
+    "CookingPotManagerMixin"
+  ]
+}

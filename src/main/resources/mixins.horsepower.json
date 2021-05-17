@@ -1,0 +1,9 @@
+{
+  "package": "fr4gtastic.justmyrottenluck.mixin.horsepower",
+  "mixins": [
+    "TileEntityGrindstoneMixin",
+    "TileEntityHandGrindstoneMixin",
+    "UtilsMixin",
+    "ComparableItemStackMixin"
+  ]
+}
